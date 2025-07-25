@@ -24,7 +24,7 @@ const TrustedCompliance = () => {
                         <button className='py-3 px-6 rounded-full mb-10 w-[166px] cursor-default hover:scale-105 duration-200 transition ease-in-out' style={{backgroundColor: 'var(--Outline)', color: 'var(--Heading)', fontSize: 'var(--P1-size)'}}>Compliance</button>
                         <div className='text-center space-y-4'>
                             <h3 style={{fontSize: 'var(--H3-size)', fontWeight: 'var(--H3-weight)'}}>Trusted Solution for Global Compliance Standards.</h3>
-                            <p style={{fontSize: 'var(--P1-size)', color: 'var(--Paragraph)'}}>The reports issued by Greenly comply with the requirements of the world's most recognised standards.</p>
+                            <p style={{fontSize: 'var(--P1-size)', color: 'var(--Paragraph)'}}>The reports issued by Khazra.ai comply with the requirements of the world's most recognised standards.</p>
                         </div>
                     </div>
                 </div>

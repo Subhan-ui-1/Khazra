@@ -18,9 +18,9 @@ const footerData = [
         ],
     },
     {
-        title: 'About Greenly',
+        title: 'About Khazra.ai',
         items: [
-        'Why Greenly',
+        'Why Khazra.ai',
         'Pricing',
         'Our board members',
         'Partners',
@@ -34,7 +34,7 @@ const footerData = [
         title: 'Resources',
         items: [
         'Leaf (media)',
-        'Greenly Blog',
+        'Khazra.ai Blog',
         'Whitepaper',
         'Guides',
         'Legislation Checker',
@@ -70,7 +70,7 @@ const Footer = () => {
             {/* Hero Section */}
             <section className="max-w-[1440px] w-full mx-auto lg:p-16 md:p-14 sm:p-12 p-5 rounded-xl md:text-center" style={{ backgroundColor: 'var(--Heading)', color: 'var(--Placeholder)', backgroundImage: 'url(https://res.cloudinary.com/dxxymlo0o/image/upload/v1750060433/Frame_yh64aq.svg)', backgroundRepeat: 'no-repeat' }} >
                 <h3 className="mb-5" style={{ fontSize: 'var(--H3-size)', fontWeight: 'var(--H3-weight)' }}> The Sustainability Solution <br />Built for Ease, Powered for Performance</h3>
-                <p className="text-[16px] sm:text-[20px] max-w-[950px] w-full mx-auto" style={{ fontWeight: 'var(--P1-weight)', lineHeight: '--P1-line-height', }}>Compliance can be complex, but Greenly simplifies reporting. Requirements built for now and future-proofed for tomorrow.</p>
+                <p className="text-[16px] sm:text-[20px] max-w-[950px] w-full mx-auto" style={{ fontWeight: 'var(--P1-weight)', lineHeight: '--P1-line-height', }}>Compliance can be complex, but Khazra.ai simplifies reporting. Requirements built for now and future-proofed for tomorrow.</p>
                 <button onClick={() => router.push('/login')} className="cursor-pointer mt-8 p-3 rounded-lg sm:w-[200px] w-full bg-[#fff] text-[#000] border border-white transition duration-200 hover:bg-[#000] hover:text-[#fff]" style={{fontSize: 'var(--P1-size)'}}>
                 Get Started</button>
             </section>

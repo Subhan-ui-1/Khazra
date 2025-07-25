@@ -46,7 +46,7 @@ export default function Tech() {
             <FeatureCard
                 icon={Icons.support}
                 title="Support at Every Level"
-                description="Get access to online support & project managers that will help you through your journey, as well as our Greenly Academy to increase autonomy & expertise."
+                description="Get access to online support & project managers that will help you through your journey, as well as our Khazra.ai Academy to increase autonomy & expertise."
             />
         </div>
     );
